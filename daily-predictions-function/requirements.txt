@@ -4,5 +4,4 @@ google-cloud-storage
 datetime
 lifetimes
 pandas
-pymsteams
 pyarrow
