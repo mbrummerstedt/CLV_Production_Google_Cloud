@@ -1,0 +1,7 @@
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-storage
+datetime
+lifetimes
+pandas
+pyarrow
