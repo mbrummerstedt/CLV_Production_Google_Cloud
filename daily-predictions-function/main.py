@@ -17,7 +17,6 @@ import re
 import config
 import sys
 from string import Template, capwords
-import pymsteams
 import pyarrow
 
 
